@@ -1,5 +1,5 @@
-#COVID 19 Face Mask Detection using Pytorch Tutorial
-###Author: Rutuja Kawade
+# COVID 19 Face Mask Detection using Pytorch Tutorial
+### Author: Rutuja Kawade
 
 
 Few Months back, in the lockdown phase, due to covid 19, we all were instructed to wear face masks to prevent community spread in the pandemic. It was a huge burden on the police force of India, to check whether people are following the guidelines issued or not. To help them out, I made a face mask detection project in pytorch. Pytorch is an awesome framework by Facebook AI Research. In this tutorial I will explain my approach to the problem mentioned above. So let’s begin!
